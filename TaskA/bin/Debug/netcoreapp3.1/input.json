@@ -1,0 +1,1 @@
+[{"__type":"Meat:#","Name":"pork","TimeToCook":3,"IsTasty":true},{"__type":"Vegetable:#","Name":"potato","TimeToCook":5,"IsAllergicTo":false},{"__type":"Meat:#","Name":"chicken","TimeToCook":10,"IsTasty":false}]
